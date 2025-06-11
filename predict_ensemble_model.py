@@ -1,7 +1,6 @@
 ###To run
 ###test.py --modelpath /path/to/model/weights/ --outpath /path/to/save/output --modelname /foldername/
 
-
 import argparse
 import os
 import sys
