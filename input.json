@@ -1,0 +1,10 @@
+{
+	"input_channels" : "4",
+	"output_channels" : "2",
+	"num_of_epochs" : "1000",
+	"num_of_patches" : "8",
+	"modality" : ["t1n", "t2w", "t1c", "t2f"],
+	"mask" : "gtv",
+	"roi_size" : [64,64,64]
+
+}

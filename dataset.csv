@@ -1,0 +1,2 @@
+sessionId,t1n,t2w,t1c,t2f,seg
+BraTS-GLI-00009-101,data/training_data1_v2/BraTS-GLI-00009-101/BraTS-GLI-00009-101-t1n.nii.gz,/data/training_data1_v2/BraTS-GLI-00009-101/BraTS-GLI-00009-101-t2w.nii.gz,/data/training_data1_v2/BraTS-GLI-00009-101/BraTS-GLI-00009-101-t1c.nii.gz,/data/training_data1_v2/BraTS-GLI-00009-101/BraTS-GLI-00009-101-t2f.nii.gz,/data/training_data1_v2/BraTS-GLI-00009-101/BraTS-GLI-00009-101-seg.nii.gz
